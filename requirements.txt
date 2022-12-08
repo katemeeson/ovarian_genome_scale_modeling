@@ -1,0 +1,1 @@
+cobra>=0.25.0mewpy>=0.1.17swiglpk>=5.0.5pandas>=1.4.3
